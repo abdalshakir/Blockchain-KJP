@@ -64,5 +64,5 @@ class Blockchain {
 
 var myBlockchain = new Blockchain();
 myBlockchain.addBlock();
-myBlockchain.createTransactions("Abdal", "Sundus", 50000)
+myBlockchain.createTransactions("Abdal", "Salman", 50000)
 console.log(myBlockchain);
